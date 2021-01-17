@@ -6,4 +6,3 @@
 ![alt text](https://i.hizliresim.com/ethUH8.png)
 ![alt text](https://i.hizliresim.com/aByot7.png)
 ![alt text](https://i.hizliresim.com/VI7SDk.png)
-![test image size](https://i.hizliresim.com/VI7SDk.png){:height="50%" width="50%"}
